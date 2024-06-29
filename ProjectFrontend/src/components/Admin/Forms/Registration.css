@@ -1,0 +1,47 @@
+.segment {
+  background-color: #f9f9f9 !important;
+  border-radius: 8px !important;
+  padding: 30px !important;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1) !important;
+}
+
+.form {
+  max-width: 500px;
+  margin: auto;
+}
+
+.form-input label {
+  font-weight: bold !important;
+}
+
+.form-input input {
+  border-radius: 4px !important;
+  border: 1px solid #ddd !important;
+  padding: 10px !important;
+  margin-bottom: 15px !important;
+}
+
+.form-checkbox label {
+  color: #333 !important;
+}
+
+.button {
+  background-color: white !important;
+  color: black !important;
+  border-radius: 4px !important;
+  padding: 10px 20px !important;
+  margin-top: 20px !important;
+  transition: background-color 0.3s !important;
+}
+
+.button:hover {
+  background-color: black !important;
+  color: white !important;
+}
+
+.modal-description h3 {
+  text-align: center;
+  color: #ede5e2;
+  font-weight: bold;
+  margin-top: 20px;
+}
